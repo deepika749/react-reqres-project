@@ -9,6 +9,5 @@ Library
 Feature
 
 1. Login
-2. Register
 3. Get list user
 4. Get user detail
